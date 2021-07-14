@@ -1,0 +1,12 @@
+body{
+    background-color: dimgray;
+    align:center;
+}
+form{
+    margin-top: 100px;
+    border-radius: 35px;
+    padding: 15px;
+    background-color: gray;
+}
+
+     

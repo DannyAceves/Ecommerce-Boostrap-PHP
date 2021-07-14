@@ -1,0 +1,75 @@
+body{
+	background-color: dimgray;
+}
+.navbar{
+	background-color:cadetblue; 
+    opacity: .8;
+	padding-top: 30px;
+	height: 140px;
+	align:both;
+}
+	#logo{
+		height:110px; 
+		width:110px; 
+		border-radius: 25% 25% 25% 25%;
+		margin-top: -40px;
+		padding-top:-10px;
+	}
+	#logo:hover{
+		opacity: 0.5;
+		
+	}
+	#setting{
+		height:30px; 
+		width:30px;
+		padding-top: 0;
+		margin-top: 0;
+	}
+	#setting:hover{
+		opacity: 0.5;
+	}
+	#cyc{
+		margin-top: -10px;
+	}
+.jumbotron{
+	background-color:gray;
+	color:white;
+	padding: 5px 0;
+}
+
+
+/*post*/
+.main{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.post{
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #999;
+
+}
+.post .post-title{
+	color: #333;
+
+}
+.post .thumb{
+	margin-right: 10px;
+	width: 40%;
+
+}
+.post .thumb img{
+	width: 100%;
+}
+.container{
+	width: 64%;
+	height: 150px;
+
+}
+.leo{
+	width: 30%;
+	position: center;
+}
+#mibarra{
+	align:both;
+}
