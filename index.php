@@ -139,7 +139,7 @@ if(isset($_REQUEST['u']) && !empty($_REQUEST['u'])){
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-6">
-					<p style="color:white;">&copy;2016 National Sport | By DannyAceves</p>
+					<p style="color:white;">&copy; 2015 National Sport by DannyAceves	</p>
 				</div>
 				
 			</div>
